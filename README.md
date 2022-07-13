@@ -1,3 +1,3 @@
 # git-command-test
 
-remote change 1
+local change 1
